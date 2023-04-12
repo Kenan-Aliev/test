@@ -3,7 +3,7 @@ import Hello from "./components/Hello/Hello";
 
 function App() {
   const name1 = "Daniel";
-  const name2 = "Adil";
+  const name2 = "Adil"
   return (
     <div className="App">
       <h1>Приветствие</h1>
